@@ -1,0 +1,1 @@
+# bankcheck-scanner
